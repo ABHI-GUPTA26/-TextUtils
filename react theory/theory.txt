@@ -1,0 +1,11 @@
+// by using react we can reuse the API and different component 
+it is single page application framwork 
+JSX it look like html (but we use className insead of classs for asFor because it is reserve keyword in the java script  )
+jsx is used in the app.js file 
+jsx is developed by the react developer so that all file like for css ,html and js should write at the same place 
+we read props in the react 
+ state ==>state is the present time condition of any container 
+ it is related to the component 
+
+  video no -16 *** react router setup is a application used in single page website ,
+ it changes only some component of the page by clicking any button or icon without loading the another page.
